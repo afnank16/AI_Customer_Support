@@ -1,5 +1,7 @@
 # AI Customer Support Chat
 
+![alt text](<screenshot.png>)
+
 A mobile-first customer support chat widget: React frontend talking to a
 Node WebSocket backend, which streams responses from the Claude API.
 
